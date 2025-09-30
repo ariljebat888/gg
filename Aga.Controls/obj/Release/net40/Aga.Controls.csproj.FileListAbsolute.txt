@@ -1,0 +1,7 @@
+C:\rMap2\Aga.Controls\obj\Release\net40\Aga.Controls.csproj.AssemblyReference.cache
+C:\rMap2\Aga.Controls\obj\Release\net40\Aga.Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\rMap2\Aga.Controls\obj\Release\net40\Aga.Controls.csproj.CoreCompileInputs.cache
+C:\rMap2\Aga.Controls\bin\Release\net40\Aga.Controls.dll
+C:\rMap2\Aga.Controls\bin\Release\net40\Aga.Controls.pdb
+C:\rMap2\Aga.Controls\obj\Release\net40\Aga.Controls.dll
+C:\rMap2\Aga.Controls\obj\Release\net40\Aga.Controls.pdb

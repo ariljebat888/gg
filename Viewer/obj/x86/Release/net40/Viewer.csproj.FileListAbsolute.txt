@@ -1,0 +1,11 @@
+C:\rMap2\Viewer\bin\x86\Release\net40\Viewer.dll
+C:\rMap2\Viewer\bin\x86\Release\net40\Viewer.pdb
+C:\rMap2\Viewer\bin\x86\Release\net40\Microsoft.Xna.Framework.dll
+C:\rMap2\Viewer\bin\x86\Release\net40\Microsoft.Xna.Framework.Game.dll
+C:\rMap2\Viewer\bin\x86\Release\net40\Microsoft.Xna.Framework.Graphics.dll
+C:\rMap2\Viewer\obj\x86\Release\net40\Viewer.csproj.AssemblyReference.cache
+C:\rMap2\Viewer\obj\x86\Release\net40\Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\rMap2\Viewer\obj\x86\Release\net40\Viewer.csproj.CoreCompileInputs.cache
+C:\rMap2\Viewer\obj\x86\Release\net40\Viewer.csproj.Up2Date
+C:\rMap2\Viewer\obj\x86\Release\net40\Viewer.dll
+C:\rMap2\Viewer\obj\x86\Release\net40\Viewer.pdb

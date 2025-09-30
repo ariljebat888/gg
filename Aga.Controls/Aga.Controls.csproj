@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <ProjectGuid>{E73BB233-D89B-432D-883F-134952A4C58A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Aga.Controls</RootNamespace>
+    <AssemblyName>Aga.Controls</AssemblyName>
+    <TargetFramework>net40</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+</Project>
